@@ -1,4 +1,6 @@
- sample1
 
+# sample
+- This repo is op
+- change made during pracs
+- This is an merge conflict example
 
-- This is same merge conflict another example
